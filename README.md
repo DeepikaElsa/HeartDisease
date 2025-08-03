@@ -75,7 +75,12 @@ Press the Predict button to get the result:
 
 ## 📁 File Structure
 ├── heart.csv
+
 ├── model_training.ipynb / model_training.py
+
 ├── model_joblib_heart (Saved Model)
+
 ├── gui_heart_predictor.py
+
 └── README.md
+
